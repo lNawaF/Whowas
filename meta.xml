@@ -1,0 +1,4 @@
+<meta>
+    <info name="Whowas" version="1.0.0" type="script"/>
+	<script type="server" src="Server.lua" />
+</meta>
